@@ -13,7 +13,7 @@ section:
 skills:
 - name: Go Development
   icon: "/images/sections/skills/golang-official.svg"
-  summary: "Using as the main language for professional development. Capable of writing scalable, testable, and maintainable programs. Currently working a on a low-code web application development platform with Go as the backend."
+  summary: "Using as the main language for professional development. Capable of writing scalable, testable, and maintainable programs. Currently working on a low-code web application development platform with Go as the backend."
   url: "https://golang.org/"
 
 - name: Vue JS
